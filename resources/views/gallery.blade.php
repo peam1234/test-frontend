@@ -32,7 +32,6 @@
 
     </head>
     <body>
-    <div class="bg"></div>
         <div class="gallery container p-3">
             <h1 class="text-center">Title</h1>
             <p class="text-center">description</p>
